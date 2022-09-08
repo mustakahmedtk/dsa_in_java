@@ -73,7 +73,6 @@ Output 2:
                 sb.insert(0,stack.pop());
             }
         }
-
         return sb.toString();
     }
 }

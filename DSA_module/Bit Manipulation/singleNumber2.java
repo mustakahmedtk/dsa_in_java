@@ -147,6 +147,8 @@ Explanation 1:
             }
         }
         return result;
+        
+        // time complexity of this approach is O(32*n) which is O(n) and space complexity is O(1)
 
     }
 

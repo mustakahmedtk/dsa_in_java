@@ -1,4 +1,4 @@
-package com.collection.DSA_module;
+package com.collection.DSA_module.BinarySearch;
 
 public class BinarySearch {
 /*

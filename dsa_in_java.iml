@@ -8,7 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DSA_module/Heaps" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DSA_module/Stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DSA_module/Tries" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DSA_module/linkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA_module/LinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DSA_module/queue" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

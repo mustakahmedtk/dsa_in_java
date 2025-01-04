@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/BinaryTree" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/Bit Manipulation" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/Graphs" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/Heaps" isTestSource="false" packagePrefix="com.collection.DSA_module.Heap" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack_old" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/Tries" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/linkedList_old" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+      <sourceFolder url="file://$MODULE_DIR$/queue_old" isTestSource="false" packagePrefix="com.collection.DSA_module" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

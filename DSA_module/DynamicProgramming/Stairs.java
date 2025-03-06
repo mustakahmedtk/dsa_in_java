@@ -89,6 +89,9 @@ Provide sample input and click run to see the correct output for the provided in
             ma[n] = 1;
             return 1;
         }
+        if(ma[n]!= 0){
+            return ma[n];
+        }
         int result = findWays(n-1, ma) + findWays(n-2, ma);
         ma[n] = result;
         return result;

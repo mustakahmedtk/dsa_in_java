@@ -93,6 +93,9 @@ Explanation 2:
             return input;
         }
 
+        if(ma[input] != 0){
+            return ma[input];
+        }
         int result = findFib(input-1, ma) + findFib(input-2, ma);
         ma[input] = result;
         return result;
